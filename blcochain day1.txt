@@ -1,0 +1,66 @@
+Question 1:
+
+What is your understanding of Blockchain?
+ans:
+1)Blockchain is nothing but the philosophy that stores the data in different blocks, where the blocks are stored in a distributed network of computers.
+2)It keeps all the record of all the transactions that have taken place in a secure, chronological, and immutable way in decentralized distributed network.
+3)It uses SHA - Secure Hash Algorithm to keep data.
+4)Blockchain is a mix of technology-Distributed Database and Cryptography where the data is Verifiable i.e. you can easily verify data/records, Unchangeble i.e. whatever the data you are storing will remain same and cannot be changed, Tamper-proof & immutable.
+
+Question 2: 
+
+What is the core problem Blockchain trying to solve?
+ans:
+1)The main problem or the core problem due to which blockchain has discovered is the International banking crisis with the collapse of the environment in 2008.
+2)Due to this crisis blockchain concept/philosophy is discovered.
+3)In US some hackers tried to hack twitter as they were sending messages related to a bitcoin that if it is sent to a link , twitter will get backed with double bitcoins. This problem is trying to solve using Blockchain.
+The types of problems that blockchains can solve are far-ranging, spanning many industries and contexts. Here we will explore just a few common examples:
+     1)	Paying for contributions to intellectual property. The video game industry offers a useful window into what’s possible when you define a problem that a particular set of stakeholders face — and then design a blockchain to solve the problem. In this case, the stakeholders were the people contributing their creativity and smarts to developing games. And the problem was the cumbersome, archaic way in which royalties and rights were managed across the industry.
+Developing a video game typically involves production companies and game-publishing houses (such as Sony Interactive Entertainment, Tencent Games, Microsoft Studios, and Electronic Arts), development companies, video game console makers, computer manufacturers, and mobile phone makers, as well as contractors — writers, voice actors, composers, musicians, and so on.
+     2)	Establishing history of ownership. In addition to addressing problems related to intellectual property and licensing, blockchain is being used to establish origins and ownership. Consider the diamond industry, which has long been subject to corrupt activity. In western and central Africa, for example, rebel groups have used “blood diamonds” to finance armed conflicts against governments. In response, the diamond industry has attempted to create provenance certification programs. The proper tracking of diamonds could bring much-needed transparency to the industry, ensuring that blood diamonds do not support insurgents’ efforts by preventing the gems from entering the supply chain in the first place. However, these efforts haven’t been easy, as paper-based certification systems are prone to fraud and corruption.
+     3)	Making supply chains more efficient and transparent. The ability to track provenance can address another type of problem: reducing the amount of inefficiency and lack of clarity in supply chains. In early 2018, the Danish shipping giant Maersk and IBM announced a joint venture to create a real-time digital ledger for global shipping. The cargo, transport, and shipping industry has long suffered from a lack of transparency with regard to the sourcing and timing of shipments, which public ledgers might be able to solve.
+        Other companies are developing their own distributed ledgers to cover their entire supply chains. Walmart provides a good exampleHowever, a distributed ledger will extend this advantage by recording the origins of raw materials and products in the supply chain. This will also allow for more transparent consumer labeling and answer questions about sustainability in a more timely and detailed fashion.
+
+
+Question 3: 
+
+What are the few features which Blockchain will give you?
+ans:
+Blockchain provides the following features:
+The data which is going to be stored is:
+1)Verifiable.
+2)Unchangeble.
+3)Tamper-proof.
+4)Immutable.
+5)Secure.
+
+
+
+
+Question 4: 
+
+What all things does a Block contain?
+ans:
+A Block contain:
+1)Block Number.
+2)Transaction Records.
+3)Previous Block Signature.
+4)Mining Key.
+
+Question 5:
+ 
+How is the verifiability of Blockchain has been attained?
+ans:
+Most security and privacy research studies on blockchain have been focused along two threads:                                                                                                                                       1)Uncovering some attacks suﬀered by blockchain based systems to date.                                     2) Putting forward speciﬁc proposals of employing some state of the art countermeasures against a subset of such attacks.
+However,very few eﬀorts have been made to Provide an in-depth analysis of the security and privacy properties of blockchainand diﬀerent blockchainimplementation techniques. This survey presents a comprehensive review of the security and privacy of blockchains. We ﬁrst describe the notion of blockchains for online transactions, and discuss the basic and additional security and privacy attributes of blockchains. Then we discuss a set of corresponding security techniques, especially cryptographic solutions, for realizing both basic and additional security goals. We argue that, as blockchain technology continues to attract attentions and to be deployed in various applications, it is critical to gain an in-depth understanding of the security and privacy properties of blockchain and the degree of trust that blockchain may provide. Such understanding may shed light on the root causes of vulnerabilities in current blockchain deployment models and provide foresight and technological innovation on robust defense techniques and countermeasures.
+In the context of Bitcoin systems, the blockchain is employed as its secure, private and trusted public archive for all transactions that trade bitcoins on the Bitcoin network. This ensures that all bitcoin transactions are recorded, organized and stored in cryptographically secured blocks, which are chained in a veriﬁable and persistent manner. Blockchain is the pivotal guard in securing bitcoin transactions from many known and hard security, privacy and trust problems, such as double spending, unauthorized disclosure of private transactions, reliance of a trusted central authority, and the untrustworthiness of decentralized computing. The bitcoin way of deploying blockchainhas been the inspiration for many other applications, such as healthcare, logistics, education certiﬁcation, crowd sourcing, secure storage. The blockchain ecosystem is growing rapidly with increasing investment and interests from industry, government and academia.
+
+
+
+
+
+
+
+
+
+													0809aditigangadhar.com
