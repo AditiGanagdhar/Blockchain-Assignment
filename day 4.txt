@@ -1,0 +1,45 @@
+pragma solidity >=0.4.17 <0.7.0;
+
+contract ReportCard{
+    
+    string public Name;
+    
+    uint public RollNo;
+    
+    uint public Batch;
+    
+    uint public MarksOfMaths;
+    uint public MarksOfPython;
+    uint public MarksOfScience;
+    uint public MarksOfJava;
+    
+    string public Status;
+    
+    function ReportCard(string newName, uint newRollno, uint newBatch, uint newMaths, uint newPython, 
+    uint newScience, uint newJava, string newStatus)public
+    {
+        Name = newName;
+        RollNo = newRollno;
+        Batch = newBatch;
+        MarksOfMaths = newMaths;
+        MarksOfPython = newPython;
+        MarksOfScience = newScience;
+        MarksOfJava = newJava;
+        Status = newStatus;
+        
+    }
+    
+    
+    
+    function getDetails()public view returns(string, uint, uint, uint, uint, uint, uint, string)
+    {
+        return(Name, RollNo, Batch, MarksOfMaths, MarksOfPython, MarksOfScience, MarksOfJava, Status);
+    }
+}
+
+
+
+
+
+// contract id : 0x49f663E7315128c6377cF8023a131C1445D04Ff5
+//check from this link:- https://ropsten.etherscan.io/address/0x49f663e7315128c6377cf8023a131c1445d04ff5
